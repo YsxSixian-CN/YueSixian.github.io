@@ -11,6 +11,8 @@ redirect_from:
 ======
 目前科研方向为开放域语义分割与计算机视觉，师从西安交通大学软件学院柯炜副教授。个人科研主页为[https://ysxsixian-cn.github.io/YueSixian.github.io/](https://ysxsixian-cn.github.io/YueSixian.github.io/) 。
 
+论文专著
+======
 
 教育经历
 ======
@@ -21,6 +23,3 @@ redirect_from:
 ======
 邮箱：alex.yue915@gmail.com/ysx22@lzu.edu.cn<br>
 微信：ysx18301519593
-
-论文专著
-======
