@@ -9,7 +9,8 @@ redirect_from:
 
 研究兴趣及方向
 ======
-目前科研方向为开放域语义分割与计算机视觉，师从西安交通大学软件学院柯炜副教授。个人科研主页为[https://ysxsixian-cn.github.io/YueSixian.github.io/](https://ysxsixian-cn.github.io/YueSixian.github.io/) 。
+目前科研方向为开放域语义分割与计算机视觉，师从西安交通大学软件学院柯炜副教授。<br>
+个人科研主页：[https://ysxsixian-cn.github.io/YueSixian.github.io/](https://ysxsixian-cn.github.io/YueSixian.github.io/) 。
 
 论文专著
 ======
