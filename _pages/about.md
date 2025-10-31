@@ -12,17 +12,13 @@ redirect_from:
 
 教育经历
 ======
-2022-2026 兰州大学（Lanzhou university） 数据科学与大数据技术 学士
+2022-2026 兰州大学（Lanzhou university） 数据科学与大数据技术 学士<br>
 2026-2029 西安交通大学（Xi'an jiaotong university） 软件工程 硕士
 
-Getting started
+联系方式
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+邮箱：alex.yue915@gmail.com/ysx22@lzu.edu.cn<br>
+微信：ysx18301519593
 
 Site-wide configuration
 ------
